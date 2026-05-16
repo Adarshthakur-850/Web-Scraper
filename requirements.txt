@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+pandas
+fastapi
+uvicorn
+streamlit
+sqlalchemy
+python-multipart
